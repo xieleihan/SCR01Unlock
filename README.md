@@ -8,7 +8,7 @@
 
 ## 完整的设备规格：
 
-> **CPU: ** MediaTek Dimensity 720 (MT6853)
+> **CPU:** MediaTek Dimensity 720 (MT6853)
 >
 > **Android系统:** Android 11 with OneUI 3.0 (w/o Google Play Services)
 >
