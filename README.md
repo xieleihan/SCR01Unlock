@@ -8,17 +8,17 @@
 
 ## 完整的设备规格：
 
-> **CPU: **MediaTek Dimensity 720 (MT6853)
+> **CPU: ** MediaTek Dimensity 720 (MT6853)
 >
-> **Android系统:**Android 11 with OneUI 3.0 (w/o Google Play Services)
+> **Android系统:** Android 11 with OneUI 3.0 (w/o Google Play Services)
 >
-> **运行内存:**2.5GB RAM
+> **运行内存:** 2.5GB RAM
 >
 > **存储:** 32GB Internal Storage
 >
-> **WiFi协议:**WiFi 5 (802.11ac)
+> **WiFi协议:** WiFi 5 (802.11ac)
 >
-> **电池容量:**5000mAH Battery
+> **电池容量:** 5000mAH Battery
 >
 > **屏幕**:5.3" (1480x720) LCD Display
 >
